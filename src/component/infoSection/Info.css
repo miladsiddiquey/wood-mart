@@ -1,0 +1,15 @@
+.info_section{
+    margin-top:90px !important;
+}
+.info-col:hover{
+    border: 1px solid #c3e5f1;
+   
+    cursor: pointer;
+}
+.info_title{
+    text-transform: capitalize;
+    color:#5E5D5D;
+}
+.info_sTitle{
+    color:#5E5D5D;
+}

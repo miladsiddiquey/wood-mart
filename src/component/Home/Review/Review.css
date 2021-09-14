@@ -1,0 +1,24 @@
+
+.viewer-card{
+    max-width: 500px;
+   text-align: center;
+  padding:20px;
+}
+.review-details{
+    margin-top: 5px;
+}
+.viewer-card .rev-img img{
+    width:100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid gray;
+    border-radius: 50px;
+   
+}
+.start{
+    color:#FA7925;
+}
+
+.carousel-indicators {
+    display: none;
+}

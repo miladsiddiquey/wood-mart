@@ -1,0 +1,57 @@
+
+.far_gallery{
+    margin-top:90px;
+}
+
+
+.nav-tabs {
+    /* border-bottom: 1px solid #dee2e6; */
+    justify-content: center;
+}
+.nav-tabs .nav-link {
+    
+    margin-bottom: none; 
+    background: none; 
+    border: none; 
+    border-top-left-radius: none;
+    border-top-right-radius: none;
+    margin-left: 20px;
+    margin-right:20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: gray !important;
+    text-decoration: none;
+    transition:none;
+}
+.nav-tabs {
+    border-bottom: none !important;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: red !important;
+    background-color: none;
+    border-color:none;
+}
+
+/* .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+} */
+
+button#uncontrolled-tab-example-tab-home {
+    border: 2px solid gray;
+    width:150px !important;
+}
+button#uncontrolled-tab-example-tab-profile {
+    border: 2px solid gray;
+    width:150px !important;
+}
+button#uncontrolled-tab-example-tab-contact {
+    border: 2px solid gray;
+    width:150px !important;
+}

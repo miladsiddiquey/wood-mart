@@ -1,0 +1,33 @@
+
+.trending-Slide{
+    margin-top:90px;
+}
+.trend{
+    margin:0px 20px 0px 20px;
+}
+.trend img{
+    width:300px;
+    height:300px;
+}
+
+.tr_details{
+    margin-top:10px;
+    color:#5E5D5D;
+}
+
+
+
+
+
+
+
+
+
+
+
+button.sc-gKseQn.jJKuoL.rec.rec-dot.rec.rec-dot_active {
+    display: none;
+}
+button.sc-gKseQn.gQIqMI.rec.rec-dot {
+    display: none;
+}

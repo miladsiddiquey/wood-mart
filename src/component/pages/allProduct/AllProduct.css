@@ -1,0 +1,13 @@
+
+.card-info{
+    padding:10px;
+}
+.pd-title{
+    text-transform: capitalize !important;
+    color:gray;
+}
+.start-icon{
+    margin-left: auto !important;
+    color:#FA7925;
+   
+}
