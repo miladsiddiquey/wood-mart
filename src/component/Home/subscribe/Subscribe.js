@@ -7,7 +7,7 @@ const Subscribe = () => {
             <div className="container subscribe-bg  ">
                 <div className="row overly-bg ">
                     <div className="col-md-6">
-                        <h1 style={{textTransform:'capitalize'}}>subscribe & get<br />10% off</h1>
+                        <h1 className="text-capitalize ten-per-off">subscribe & get<br />10% off</h1>
                         <div className="subscribe-filed input-group mt-4  d-flex">
                             <input type="text" className="form-control" placeholder="Enter your Email" />
                             <div className="btn btn-danger">Subscribe</div>

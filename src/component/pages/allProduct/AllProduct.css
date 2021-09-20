@@ -1,6 +1,26 @@
 
+.card_main{
+    cursor: pointer;
+}
+.card_main:hover .heart{
+   display: block;
+}
+
 .card-info{
     padding:10px;
+    
+}
+
+.like{
+    position: absolute;
+    top:0;
+    right: 0;
+   padding:15px;
+}
+.like .heart{
+    color:gray;
+    cursor: pointer;
+    display: none;
 }
 .pd-title{
     text-transform: capitalize !important;
@@ -10,4 +30,20 @@
     margin-left: auto !important;
     color:#FA7925;
    
+}
+.link{
+    text-decoration: none;
+}
+
+@media (max-width:458px){
+    .card-info{
+        padding:5px 0px 5px 0px;
+        
+    }
+    .pd-title{
+        font-size: 15px !important;
+    }
+    .start-icon{
+        font-size: 12px !important;
+    }
 }

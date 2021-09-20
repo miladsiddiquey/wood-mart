@@ -46,8 +46,8 @@ const Review = () => {
                     {
                         item.map((item) => (
                             <Carousel.Item key={item.id}>
-                                <div className="row align-items-center " style={{margin:'0px 60px 0px 60px'}}>
-                           <div className="col-md-12 d-flex justify-content-center">
+                                <div className="row row-cols-md-1 row-cols-lg-1 align-items-center " style={{margin:'0px 60px 0px 60px'}}>
+                           <div className="col-12 d-flex justify-content-center">
                            <div className="card viewer-card">
                                <div className="rev-img">
                                <img src={item.img} alt="" className="img-fluid" />

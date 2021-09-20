@@ -20,3 +20,13 @@
    padding:0px 70px 0px 70px;
     
 }
+@media (max-width:458px){
+    .ten-per-off{
+        font-size: 20px;
+        color:#fff;
+    }
+    .overly-bg{
+        padding:0px;
+         
+     }
+}

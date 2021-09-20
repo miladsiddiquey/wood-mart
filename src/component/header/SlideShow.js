@@ -49,15 +49,15 @@ const SlideShow = () => {
                     {
                         item.map((item) => (
                             <Carousel.Item key={item.id}>
-                                <div className="row align-items-center " style={{margin:'0px 60px 0px 60px'}}>
+                                <div className="row align-items-center carousel-sec ">
 
                                     <div className="col-md-6 col-sm-12"style={{paddingRight:'90px'}} >
                                         <h1 style={{color:'#5E5D5D',textTransform:'uppercase'}}>{item.title}</h1>
                                         <p style={{color:'#747577'}}>{item.subTitle}</p>
                                         <div className="d-flex align-items-center">
                                        
-                                        <button type="button" class="btn btn-success me-5">Shop Now</button>
-                                        <h1 style={{color:'red',textTransform:'uppercase'}}>{item.offer}</h1>
+                                        <button type="button" class="btn btn-success shop_now me-5">Shop Now</button>
+                                        <h1 className="text-danger offer text-uppercase">{item.offer}</h1>
                                         </div>
                                     </div>
                                     <div className="col-md-6">

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Sp Bed",
+        "price": "3,200",
+        "img": "https://i.ibb.co/jHmP5rB/asdefr.png"
+    },
+    {
+        "id": 2,
+        "title": "Office Chair",
+        "price": "3,200",
+        "img": "https://i.ibb.co/nC8BBy6/ec1.png"
+    },
+    {
+        "id": 3,
+        "title": "Normal Bed",
+        "price": "3,200",
+        "img": "https://i.ibb.co/GC4n35v/product-jpeg-500x500-1.png"
+    },
+    {
+        "id": 4,
+        "title": "Table",
+        "price": "3,200",
+        "img": "https://i.ibb.co/PMG64hQ/ca4-1.png"
+    },
+    {
+        "id": 5,
+        "title": "Chair",
+        "price": "3,200",
+        "img": "https://i.ibb.co/YbgKLwq/ee2-Copy-removebg-preview.png"
+    },
+    {
+        "id": 6,
+        "title": "D Table",
+        "price": "3,200",
+        "img": "https://i.ibb.co/dJkB6v4/d-table.png"
+    },
+    {
+        "id": 7,
+        "title": "sofa",
+        "price": "3,200",
+        "img": "https://i.ibb.co/DfqKPpQ/sofaa-removebg-preview.png"
+    },
+    {
+        "id": 8,
+        "title": "Wooden Chair",
+        "price": "3,200",
+        "img": "https://i.ibb.co/VH6t1PW/va1.png"
+    }
+]

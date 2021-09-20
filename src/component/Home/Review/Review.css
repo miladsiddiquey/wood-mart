@@ -22,3 +22,12 @@
 .carousel-indicators {
     display: none;
 }
+
+/* @media (max-width:458px){
+    .viewer-card{
+        max-width: auto;
+       
+       text-align: center;
+      padding:20px;
+    }
+} */

@@ -2,10 +2,9 @@
 .carousel-control-next-icon, .carousel-control-prev-icon{
     display: none !important;
 }
-.offer-button{
-    
-    background-color:white !important;
-    color:red !important;
-    border: 1px solid red !important;
-    height:40px;
+
+.carousel-sec{
+
 }
+
+
